@@ -1,10 +1,10 @@
 ---
-title: font-end Development Norms
+title: front-end Development Norms
 date: 2016-09-01 13:55:27
 tags:
   - Development
   - Norms
-  - Font-end
+  - Front-end
   - javascript
   - css
   - html
